@@ -2,6 +2,7 @@
 
 
 **To use ALUMNI PORTAL first you have to open XAMPP Control Panel.**
+
 *Then start Apache and MYSQL servers.*
 
 1.	Include that SQL file named (*university*.sql) provided in this zip file in your xamp databases as a new database. 
