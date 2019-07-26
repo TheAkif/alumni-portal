@@ -5,7 +5,6 @@ To use ALUMNI PORTAL first you have to open XAMPP Control Panel.
 Then start Apache and MYSQL servers.
 
 1.Include that SQL file named (university.sql) provided in this zip file in your xamp databases as a new database. 
-
 2.It works like you have to first register a university by visiting http://localhost:PORT(WHATEVER YOU ARE USING)/project/
 3.Here you will see a button named "Register your University".
 4.Click on it and provide details. Make sure your university name should not contain spaces or special characters except underscore.
@@ -44,7 +43,7 @@ Then start Apache and MYSQL servers.
 
 
 
-================================= Alumni Sign UP ========================================
+#Alumni-Signup
 1. Provide all required information.
 2. Choose university from the option box.
 3. Wait for the approval of your profile from admins or representative.
