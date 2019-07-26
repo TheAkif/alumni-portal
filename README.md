@@ -23,15 +23,15 @@
 
 10. **What Alumni can do?**
 	 
-	 *Alumni* can add posts.
+	 **Alumni** can add posts.
 	 
 	 Talk to other alumni & talk to admins as well through chatting.
 	 
 	 Add wokrhsops if you provide them priviliges.
 	 
-	 *Alumni* can comment on posts.
+	 **Alumni** can comment on posts.
 	 
-	 *Alumni* can edit posts that Alumni have posted not *Admins*' posts.	 
+	 **Alumni** can edit posts that Alumni have posted not *Admins*' posts.	 
 
 11. **What Admins can do?**
 	 
@@ -39,11 +39,11 @@
 	 
 	 **Admins** can Add workhsops.
 	 
-	 ***Admins** can approve requests of alumni to join your portal.
+	 **Admins** can approve requests of alumni to join your portal.
 	 
-	 ***Admins** can talk to other admins and to *Admins*.
+	 **Admins** can talk to other admins and to *Admins*.
 	 
-	 ***Admins** can talk to Representative that is YOU.
+	 **Admins** can talk to Representative that is YOU.
 	 
 	 **Admins** can edit *Admins*.
 	 
