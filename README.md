@@ -35,37 +35,30 @@
 
 11. **What Admins can do?**
 	 
-	 *Admins* can Add posts. 
+	 **Admins** can Add posts. 
 	 
-	 *Admins* can Add workhsops.
+	 **Admins** can Add workhsops.
 	 
-	 *Admins* can approve requests of alumni to join your portal.
+	 ***Admins** can approve requests of alumni to join your portal.
 	 
-	 *Admins* can talk to other admins and to *Admins*.
+	 ***Admins** can talk to other admins and to *Admins*.
 	 
-	 *Admins* can talk to Representative that is YOU.
+	 ***Admins** can talk to Representative that is YOU.
 	 
-	 *Admins* can edit *Admins*.
+	 **Admins** can edit *Admins*.
 	 
-	 *Admins* can comment on posts.
+	 **Admins** can comment on posts.
 	 
-	 *Admins* can edit workhsops/Posts.
+	 **Admins** can edit workhsops/Posts.
 
  12. **What can YOU(Representative) do?**
-	
 	All the things that *Admins* can do, you can do.
-	
 	You can add *Admins*.
-	
 	Talk to *Admins*.
-	
 	Talk to *Admins* through *Admins*.
 
  13. **What are Posts?**
-	
 	Posts can be annoucements,job alerts, requirements, recruitments etc.
-
-
 
 
 # Alumni-Signup
