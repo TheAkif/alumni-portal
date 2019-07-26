@@ -1,4 +1,4 @@
-# alumni-portal-Guide
+# Alumni-Portal-Guide
 
 
 To use ALUMNI PORTAL first you have to open XAMPP Control Panel.
@@ -43,7 +43,7 @@ Then start Apache and MYSQL servers.
 
 
 
-#Alumni-Signup
+# Alumni-Signup
 1. Provide all required information.
 2. Choose university from the option box.
 3. Wait for the approval of your profile from admins or representative.
