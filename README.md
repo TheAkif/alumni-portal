@@ -14,14 +14,14 @@ Then start Apache and MYSQL servers.
 8.	Tell your alumni that you have registered for Alumni Portal. Kindly sign Up there to get in touch.
 9.	Alumni will sign up, you/Admin can approve their requests to use portal.
 
-10. What Alumni can do?
+ 10. What Alumni can do?
 	 Alumni can add posts. 
 	 Talk to other alumni & talk to admins as well through chatting.
 	 Add wokrhsops if you provide them priviliges.
 	 Alumni can comment on posts.
 	 Alumni can edit posts that Alumni have posted not Admins' posts.	 
 
-11. What Admins can do? 
+ 11. What Admins can do? 
 	 Admins can Add posts. 
 	 Admins can Add workhsops.
 	 Admins can approve requests of alumni to join your portal.
@@ -31,20 +31,23 @@ Then start Apache and MYSQL servers.
 	 Admins can comment on posts.
 	 Admins can edit workhsops/Posts.
 
-12. What can YOU(Representative) do?
+ 12. What can YOU(Representative) do?
 	All the things that Admin can do, you can do.
 	You can add admins.
 	Talk to Admins.
 	Talk to Alumni through admins.
 
-13. What are Posts?
+ 13. What are Posts?
 	Posts can be annoucements,job alerts, requirements, recruitments etc.
 
 
 
 
 # Alumni-Signup
+
 1. Provide all required information.
+
 2. Choose university from the option box.
+
 3. Wait for the approval of your profile from admins or representative.
 
