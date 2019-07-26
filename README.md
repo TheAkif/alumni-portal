@@ -1,8 +1,8 @@
 # Alumni-Portal-Guide
 
 
-To use ALUMNI PORTAL first you have to open XAMPP Control Panel.
-Then start Apache and MYSQL servers.
+**To use ALUMNI PORTAL first you have to open XAMPP Control Panel.**
+*Then start Apache and MYSQL servers.*
 
 1.	Include that SQL file named (university.sql) provided in this zip file in your xamp databases as a new database. 
 2.	It works like you have to first register a university by visiting http://localhost:PORT(WHATEVER YOU ARE USING)/project/
@@ -14,30 +14,30 @@ Then start Apache and MYSQL servers.
 8.	Tell your alumni that you have registered for Alumni Portal. Kindly sign Up there to get in touch.
 9.	Alumni will sign up, you/Admin can approve their requests to use portal.
 
- 10. What Alumni can do?
+ 10. **What Alumni can do?**
 	 Alumni can add posts. 
 	 Talk to other alumni & talk to admins as well through chatting.
 	 Add wokrhsops if you provide them priviliges.
 	 Alumni can comment on posts.
-	 Alumni can edit posts that Alumni have posted not Admins' posts.	 
+	 Alumni can edit posts that Alumni have posted not *Admins*' posts.	 
 
- 11. What Admins can do? 
-	 Admins can Add posts. 
-	 Admins can Add workhsops.
-	 Admins can approve requests of alumni to join your portal.
-	 Admins can talk to other admins and to Alumni.
-	 Admins can talk to Representative that is YOU.
-	 Admins can edit Alumni.
-	 Admins can comment on posts.
-	 Admins can edit workhsops/Posts.
+ 11. **What Admins can do?**
+	 *Admins* can Add posts. 
+	 *Admins* can Add workhsops.
+	 *Admins* can approve requests of alumni to join your portal.
+	 *Admins* can talk to other admins and to *Admins*.
+	 *Admins* can talk to Representative that is YOU.
+	 *Admins* can edit *Admins*.
+	 *Admins* can comment on posts.
+	 *Admins* can edit workhsops/Posts.
 
- 12. What can YOU(Representative) do?
-	All the things that Admin can do, you can do.
-	You can add admins.
-	Talk to Admins.
-	Talk to Alumni through admins.
+ 12. **What can YOU(Representative) do?**
+	All the things that *Admins* can do, you can do.
+	You can add *Admins*.
+	Talk to *Admins*.
+	Talk to *Admins* through *Admins*.
 
- 13. What are Posts?
+ 13. **What are Posts?**
 	Posts can be annoucements,job alerts, requirements, recruitments etc.
 
 
